@@ -16,7 +16,7 @@ struct PowerballView: View {
             Color.green.opacity(0.2)
                 .ignoresSafeArea()
             VStack {
-                Image("powerball(Test)")
+                Image("powerball")
                 Divider()
                 
                 //Powerball Number Display
